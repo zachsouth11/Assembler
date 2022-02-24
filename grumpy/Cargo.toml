@@ -1,0 +1,9 @@
+[package]
+name = "grumpy"
+version = "0.1.0"
+# authors = ["Your info goes here"]
+edition = "2018"
+authors = ["Zachary South, zs920117@ohio.edu"]
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
